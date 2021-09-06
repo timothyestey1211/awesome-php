@@ -948,11 +948,3 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *PHP-releated reading materials.*
 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
-
-### PHP Internals Reading
-*Reading materials related to the PHP internals or performance.*
-
-* [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
-* [Externals](https://externals.io/) - PHP internal discussions. 
-* [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
-* [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
